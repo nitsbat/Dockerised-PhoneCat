@@ -1,0 +1,26 @@
+{
+  "name": "dockerised-phonecat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": "1.7.x",
+    "cpx": "^1.5.0",
+    "http-server": "^0.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a 0.0.0.0 -p 5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitsbat/Dockerised-PhoneCat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitsbat/Dockerised-PhoneCat/issues"
+  },
+  "homepage": "https://github.com/nitsbat/Dockerised-PhoneCat#readme"
+}
